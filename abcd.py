@@ -5,3 +5,5 @@ for i in range(5):
 a=7
 b=6
 print(a+b)
+ for i in range(5):
+     print(i*2)
